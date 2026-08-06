@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Disallow: /thank-you/
+
+Host: https://diralaw.com
+Sitemap: https://diralaw.com/sitemap.xml

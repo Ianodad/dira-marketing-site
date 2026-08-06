@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" fill="none" preserveAspectRatio="none">
+  
+  <defs>
+    <pattern id="dot" x="0" y="0" width="2" height="2" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.5" fill="currentColor" opacity="0.5"></circle>
+    </pattern>
+  </defs>
+  <g stroke="currentColor" stroke-width="0.6" stroke-dasharray="2 4" opacity="0.45" fill="none">
+    <path d="M40 160 Q 180 60 320 100 T 560 50"></path>
+    <path d="M40 60 Q 180 160 320 120 T 560 150"></path>
+    <path d="M120 100 Q 260 40 380 140 T 580 100"></path>
+  </g>
+  <g fill="currentColor">
+    <circle cx="40" cy="160" r="3"></circle>
+    <circle cx="180" cy="60" r="2"></circle>
+    <circle cx="320" cy="100" r="3"></circle>
+    <circle cx="440" cy="80" r="2"></circle>
+    <circle cx="560" cy="50" r="3"></circle>
+    <circle cx="120" cy="100" r="2"></circle>
+    <circle cx="260" cy="40" r="2"></circle>
+    <circle cx="380" cy="140" r="3"></circle>
+    <circle cx="500" cy="120" r="2"></circle>
+    <circle cx="580" cy="100" r="3"></circle>
+  </g>
+</svg>
